@@ -26,7 +26,7 @@
 
 		<div>
 			<h5 style="float: right; margin-left: 10px">
-			<a href="#">날씨데이터</a></h5>
+			<a href="/minishop/weather.do?pathurl=../openapi/weather.jsp">오늘의 날씨</a></h5>
 			<h5 style="float: right; margin-left: 10px">
 			<a href="#">게시판</a></h5>
 			<h5 style="float: right; margin-left: 10px">e-book</h5>

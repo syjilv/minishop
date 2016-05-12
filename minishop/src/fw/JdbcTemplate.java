@@ -19,7 +19,7 @@ public class JdbcTemplate {
 	}
 
 	public static Connection getConnect() {
-		String url = "jdbc:oracle:thin:@localhost:1521:xe";
+		String url = "jdbc:oracle:thin:@52.79.198.98:1521:xe";
 		String user = "scott";
 		String password = "tiger";
 		Connection conn = null;
